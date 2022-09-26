@@ -1,0 +1,59 @@
+﻿  elevator.c
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(45,12): warning C4098: "init_elevator_controller": "void"-Funktion gibt einen Wert zurück
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(51,42): error C2065: "recv_elevator_call": nichtdeklarierter Bezeichner
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(51,42): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "callback_t" und "int *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(51,23): warning C4024: "register_callback": unterschiedliche Typen für formalen und übergebenen Parameter 1
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(85,17): warning C4013: "parseRequest" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(90,6): error C2371: "parseRequest": Neudefinition; unterschiedliche Basistypen
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(92,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(192,32): warning C4047: "=": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(215,49): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(219,40): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(221,48): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(230,49): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(234,40): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(255,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(260,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(265,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(270,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(302,36): warning C4047: "=": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+  ntk_5.4.c
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\ntk_5.4.c(23,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "ntk_5.4.h": No such file or directory
+  OSCO.c
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\OSCO.c(9,8): warning C4013: "rand_s" undefiniert; Annahme: extern mit Rückgabetyp int
+  packet_definitions.c
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(45,12): warning C4098: "init_elevator_controller": "void"-Funktion gibt einen Wert zurück
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(51,42): error C2065: "recv_elevator_call": nichtdeklarierter Bezeichner
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(51,42): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "callback_t" und "int *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(51,23): warning C4024: "register_callback": unterschiedliche Typen für formalen und übergebenen Parameter 1
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(85,17): warning C4013: "parseRequest" undefiniert; Annahme: extern mit Rückgabetyp int
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(90,6): error C2371: "parseRequest": Neudefinition; unterschiedliche Basistypen
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(192,32): warning C4047: "=": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(215,49): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(219,40): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(221,48): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(230,49): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(234,40): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(255,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(260,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(265,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(270,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\elevator.c(302,36): warning C4047: "=": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+  packet_reader.c
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\packet_reader.c(70,13): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "char *const " und "char *[3]" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\packet_reader.c(70,10): warning C4024: "sprintf": unterschiedliche Typen für formalen und übergebenen Parameter 1
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\packet_reader.c(71,20): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "const char *" und "char *[3]" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\packet_reader.c(71,17): warning C4024: "strcpy": unterschiedliche Typen für formalen und übergebenen Parameter 2
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\packet_reader.c(89,36): warning C4267: "Funktion": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  socket_client.c
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\socket_client.c(92,44): warning C4047: "=": Anzahl der Dereferenzierungen bei "char" und "void *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\socket_client.c(120,44): warning C4047: "=": Anzahl der Dereferenzierungen bei "char" und "void *" unterschiedlich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\socket_client.c(134,33): warning C4267: "Funktion": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\socket_client.c(142,30): warning C4267: "Funktion": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\socket_client.c(154,26): warning C4267: "Funktion": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  Code wird generiert...
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\socket_client.c(124): warning C4715: "message_handler": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\socket_client.c(105): warning C4715: "listener": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\socket_client.c(148): warning C4715: "send_message_floor": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\socket_client.c(140): warning C4715: "send_message_elevator": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\drace\Documents\unpl-miniproject2033-elevatorupanddown4\src\socket_client.c(160): warning C4715: "send_message_server": Nicht alle Codepfade geben einen Wert zurück.

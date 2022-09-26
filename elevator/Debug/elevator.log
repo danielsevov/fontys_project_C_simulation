@@ -1,0 +1,80 @@
+﻿  elevator.c
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(41,12): warning C4098: "init_elevator_controller": "void"-Funktion gibt einen Wert zurück
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(188,32): warning C4047: "=": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(211,49): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(215,40): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(217,48): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(226,49): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(230,40): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(251,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(256,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(261,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(266,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(298,36): warning C4047: "=": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+  ntk_5.4.c
+C:\Users\drace\source\repos\elevator\elevator\src\ntk_5.4.c(186,21): warning C4047: "return": Anzahl der Dereferenzierungen bei "void *" und "unsigned int" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\ntk_5.4.c(212,9): warning C4477: "printf": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int", das variadic-Argument "1" weist aber den Typ "_task *" auf.
+C:\Users\drace\source\repos\elevator\elevator\src\ntk_5.4.c(219,11): warning C4101: "pID": Unreferenzierte lokale Variable
+  OSCO.c
+C:\Users\drace\source\repos\elevator\elevator\src\OSCO.c(9,8): warning C4013: "rand_s" undefiniert; Annahme: extern mit Rückgabetyp int
+  packet_definitions.c
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(41,12): warning C4098: "init_elevator_controller": "void"-Funktion gibt einen Wert zurück
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(188,32): warning C4047: "=": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(211,49): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(215,40): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(217,48): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(226,49): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(230,40): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(251,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(256,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(261,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(266,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(298,36): warning C4047: "=": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+  packet_reader.c
+C:\Users\drace\source\repos\elevator\elevator\src\packet_reader.c(70,13): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "char *const " und "char *[3]" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\packet_reader.c(70,10): warning C4024: "sprintf": unterschiedliche Typen für formalen und übergebenen Parameter 1
+C:\Users\drace\source\repos\elevator\elevator\src\packet_reader.c(71,20): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "const char *" und "char *[3]" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\packet_reader.c(71,17): warning C4024: "strcpy": unterschiedliche Typen für formalen und übergebenen Parameter 2
+  socket_client.c
+C:\Users\drace\source\repos\elevator\elevator\src\socket_client.c(92,44): warning C4047: "=": Anzahl der Dereferenzierungen bei "char" und "void *" unterschiedlich
+C:\Users\drace\source\repos\elevator\elevator\src\socket_client.c(120,44): warning C4047: "=": Anzahl der Dereferenzierungen bei "char" und "void *" unterschiedlich
+  Code wird generiert...
+C:\Users\drace\source\repos\elevator\elevator\src\socket_client.c(124): warning C4715: "message_handler": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\drace\source\repos\elevator\elevator\src\socket_client.c(105): warning C4715: "listener": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\drace\source\repos\elevator\elevator\src\socket_client.c(140): warning C4715: "send_message_elevator": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\drace\source\repos\elevator\elevator\src\socket_client.c(148): warning C4715: "send_message_floor": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\drace\source\repos\elevator\elevator\src\socket_client.c(160): warning C4715: "send_message_server": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(138): warning C4716: "sender_loop": Muss einen Wert zurückgeben
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(311): warning C4716: "elevator": Muss einen Wert zurückgeben
+C:\Users\drace\source\repos\elevator\elevator\src\ntk_5.4.c(213): warning C4716: "printTaskCB": Muss einen Wert zurückgeben
+C:\Users\drace\source\repos\elevator\elevator\src\ntk_5.4.c(234): warning C4716: "printTIB": Muss einen Wert zurückgeben
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(138): warning C4716: "sender_loop": Muss einen Wert zurückgeben
+C:\Users\drace\source\repos\elevator\elevator\src\elevator.c(311): warning C4716: "elevator": Muss einen Wert zurückgeben
+packet_definitions.obj : error LNK2005: _elevator@4 ist bereits in elevator.obj definiert.
+packet_definitions.obj : error LNK2005: _init_elevator_controller ist bereits in elevator.obj definiert.
+packet_definitions.obj : error LNK2005: _main ist bereits in elevator.obj definiert.
+packet_definitions.obj : error LNK2005: _parseRequest ist bereits in elevator.obj definiert.
+packet_definitions.obj : error LNK2005: _recv_elevator_call ist bereits in elevator.obj definiert.
+packet_definitions.obj : error LNK2005: _sender_loop@4 ist bereits in elevator.obj definiert.
+packet_definitions.obj : error LNK2005: _stop ist bereits in elevator.obj definiert.
+packet_definitions.obj : error LNK2005: _virtualSecond ist bereits in elevator.obj definiert.
+packet_definitions.obj : error LNK2005: _nextStop ist bereits in elevator.obj definiert.
+packet_definitions.obj : error LNK2005: _is_active ist bereits in elevator.obj definiert.
+packet_definitions.obj : error LNK2005: _totalPickDropDelta ist bereits in elevator.obj definiert.
+packet_definitions.obj : error LNK2005: _totalRequestDropDelta ist bereits in elevator.obj definiert.
+packet_definitions.obj : error LNK2005: _totalRequestPickDelta ist bereits in elevator.obj definiert.
+packet_definitions.obj : error LNK2005: _fullfilled ist bereits in elevator.obj definiert.
+packet_definitions.obj : error LNK2005: _totalIdleTime ist bereits in elevator.obj definiert.
+socket_client.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__accept@12" in Funktion "_listener@4".
+socket_client.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__closesocket@4" in Funktion "_listener@4".
+socket_client.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__connect@12" in Funktion "_create_connection".
+socket_client.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__htons@4" in Funktion "_create_connection".
+socket_client.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__inet_addr@4" in Funktion "_create_connection".
+socket_client.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__listen@8" in Funktion "_listener@4".
+socket_client.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__recv@16" in Funktion "_listener@4".
+socket_client.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__send@16" in Funktion "_send_message_elevator".
+socket_client.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__socket@12" in Funktion "_create_connection".
+socket_client.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__WSAStartup@8" in Funktion "_create_connection".
+socket_client.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__WSACleanup@0" in Funktion "_listener@4".
+socket_client.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__WSAGetLastError@0" in Funktion "_create_connection".
+C:\Users\drace\source\repos\elevator\Debug\elevator.exe : fatal error LNK1120: 12 nicht aufgelöste Externe

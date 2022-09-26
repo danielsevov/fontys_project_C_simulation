@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="API">
+      <UniqueIdentifier>{5e683942-34b7-4160-bb92-192c649bfecc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PacketHandling">
+      <UniqueIdentifier>{74b7f624-5c2e-4d3d-9407-d6d9b419c64d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="inc\ntk.c">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="inc\OSCO.c">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="src\packet_definitions.c">
+      <Filter>PacketHandling</Filter>
+    </ClCompile>
+    <ClCompile Include="src\packet_reader.c">
+      <Filter>PacketHandling</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.c" />
+    <ClCompile Include="socket_client.c">
+      <Filter>PacketHandling</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="inc\ntk.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\OSCO.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="src\packet_reader.h">
+      <Filter>PacketHandling</Filter>
+    </ClInclude>
+    <ClInclude Include="src\packet_definitions.h">
+      <Filter>PacketHandling</Filter>
+    </ClInclude>
+    <ClInclude Include="socket_client.h">
+      <Filter>PacketHandling</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

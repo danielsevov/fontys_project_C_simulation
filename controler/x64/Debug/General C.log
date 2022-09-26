@@ -1,0 +1,3 @@
+﻿D:\Yorick\Programs (86x)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Process_Thread.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+ntk.obj : error LNK2019: unresolved external symbol __readfsdword referenced in function getTib
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\controler\x64\Debug\miniproject.exe : fatal error LNK1120: 1 unresolved externals

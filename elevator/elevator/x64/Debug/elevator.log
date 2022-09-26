@@ -1,0 +1,2 @@
+﻿ntk_5.4.obj : error LNK2019: unresolved external symbol __readfsdword referenced in function getTib
+C:\Users\yoric\Documents\GitHub\unpl-miniproject2033-elevatorupanddown4\elevator\x64\Debug\elevator.exe : fatal error LNK1120: 1 unresolved externals

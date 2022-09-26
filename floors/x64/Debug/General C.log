@@ -1,0 +1,21 @@
+﻿  main.c
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\main.c(33,8): warning C4013: 'printf' undefined; assuming extern returning int
+  ntk_5.4.c
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\ntk_5.4.c(186,21): warning C4047: 'return': 'void *' differs in levels of indirection from 'unsigned int'
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\ntk_5.4.c(198,35): warning C4013: '__readfsdword' undefined; assuming extern returning int
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\ntk_5.4.c(198,41): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\ntk_5.4.c(207,51): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'int'
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\ntk_5.4.c(212,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type '_task *'
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\ntk_5.4.c(212,9): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type '_task *'
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\ntk_5.4.c(219,11): warning C4101: 'pID': unreferenced local variable
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\ntk_5.4.c(335,51): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\ntk_5.4.c(336,51): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\ntk_5.4.c(336,65): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+  Generating Code...
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\ntk_5.4.c(234): warning C4716: 'printTIB': must return a value
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\ntk_5.4.c(213): warning C4716: 'printTaskCB': must return a value
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\main.c(76): warning C4716: 'taskCode': must return a value
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\main.c(113): warning C4716: 'taskCodeDecrease': must return a value
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\main.c(95): warning C4716: 'taskCodeIncrease': must return a value
+ntk_5.4.obj : error LNK2019: unresolved external symbol __readfsdword referenced in function getTib
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\x64\Debug\Process_Thread.exe : fatal error LNK1120: 1 unresolved externals

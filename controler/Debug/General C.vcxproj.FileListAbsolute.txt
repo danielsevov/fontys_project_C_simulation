@@ -1,0 +1,3 @@
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\Debug\miniproject.exe
+D:\Yorick\Github\unpl-miniproject2033-elevatorupanddown4\controler\Debug\miniproject.exe
+C:\Users\yoric\Documents\GitHub\unpl-miniproject2033-elevatorupanddown4\controler\Debug\controller.exe

@@ -1,0 +1,1 @@
+make clean && make && cd bin && elevator.exe && cd ..

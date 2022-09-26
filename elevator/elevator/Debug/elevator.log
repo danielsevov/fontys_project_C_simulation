@@ -1,0 +1,15 @@
+﻿  elevator.c
+C:\Users\drace\source\repos\unpl-miniproject2033-elevatorupanddown4-\elevator\src\elevator.c(177,32): warning C4047: "=": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\unpl-miniproject2033-elevatorupanddown4-\elevator\src\elevator.c(200,49): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\unpl-miniproject2033-elevatorupanddown4-\elevator\src\elevator.c(204,40): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\unpl-miniproject2033-elevatorupanddown4-\elevator\src\elevator.c(206,48): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\unpl-miniproject2033-elevatorupanddown4-\elevator\src\elevator.c(215,49): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\unpl-miniproject2033-elevatorupanddown4-\elevator\src\elevator.c(219,40): warning C4047: "==": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\unpl-miniproject2033-elevatorupanddown4-\elevator\src\elevator.c(240,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\source\repos\unpl-miniproject2033-elevatorupanddown4-\elevator\src\elevator.c(245,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\source\repos\unpl-miniproject2033-elevatorupanddown4-\elevator\src\elevator.c(250,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\source\repos\unpl-miniproject2033-elevatorupanddown4-\elevator\src\elevator.c(255,27): warning C4244: "Funktion": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+C:\Users\drace\source\repos\unpl-miniproject2033-elevatorupanddown4-\elevator\src\elevator.c(301,36): warning C4047: "=": Anzahl der Dereferenzierungen bei "int" und "void *" unterschiedlich
+C:\Users\drace\source\repos\unpl-miniproject2033-elevatorupanddown4-\elevator\src\elevator.c(127): warning C4716: "sender_loop": Muss einen Wert zurückgeben
+C:\Users\drace\source\repos\unpl-miniproject2033-elevatorupanddown4-\elevator\src\elevator.c(314): warning C4716: "elevator": Muss einen Wert zurückgeben
+  elevator.vcxproj -> C:\Users\drace\source\repos\unpl-miniproject2033-elevatorupanddown4-\elevator\Debug\elevator.exe
