@@ -1,1 +1,1 @@
-# fontys_project_C_simulation
+# University project - Elevator simulation in C
